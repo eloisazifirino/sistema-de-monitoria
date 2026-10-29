@@ -40,3 +40,19 @@ VALUES (
     1,
     'solicitado'
 );
+
+-- materiais de estudo
+INSERT INTO study_materials (
+    monitoring_id,
+    title,
+    description,
+    file_type,
+    file_attachment
+)
+VALUES (
+    1,
+    'Resumo de Laços de Repetição',
+    'Arquivo em PDF com exemplos práticos de for e while.',
+    'application/pdf',
+    'arquivo_mock_dados'::bytea
+);
