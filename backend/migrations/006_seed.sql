@@ -1,7 +1,7 @@
 -- usuarios
 INSERT INTO users (name, email, password, role)
 VALUES
-    ('Aluno Teste', 'aluno@teste.com', 'senha_teste', 'student'),
+    ('Aluno Teste', 'aluno@teste.com', 'senha_teste', 'aluno'),
     ('Monitor Teste', 'monitor@teste.com', 'senha_teste', 'monitor'),
     ('Professor Teste', 'professor@teste.com', 'senha_teste', 'professor');
 
