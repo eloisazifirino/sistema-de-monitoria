@@ -94,7 +94,7 @@ O banco possui 5 entidades: `users`, `subjects`, `monitorings`, `appointments` e
 ### 1. Clonar o repositório
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/eloisazifirino/sistema-de-monitoria.git
 cd sistema-de-monitoria
 git checkout entrega1
 ```
